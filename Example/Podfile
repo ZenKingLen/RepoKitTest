@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'exampleRepoKit_Example' do
+  pod 'exampleRepoKit', :path => '../'
+
+  target 'exampleRepoKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
