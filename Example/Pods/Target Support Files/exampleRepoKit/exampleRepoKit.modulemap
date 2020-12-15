@@ -1,0 +1,6 @@
+framework module exampleRepoKit {
+  umbrella header "exampleRepoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

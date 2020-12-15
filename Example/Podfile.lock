@@ -1,0 +1,16 @@
+PODS:
+  - exampleRepoKit (0.1.0)
+
+DEPENDENCIES:
+  - exampleRepoKit (from `../`)
+
+EXTERNAL SOURCES:
+  exampleRepoKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  exampleRepoKit: ca94e1781f9bb500004fcb94c46259e664f062ff
+
+PODFILE CHECKSUM: 9e258c6eeb179eec09d0a7ecaa8792e2ab93ca7d
+
+COCOAPODS: 1.10.0
